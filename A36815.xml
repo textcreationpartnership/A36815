@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Duke of Monmouth's case with all the very strange crimes, and great misdemeanors alledged against His Grace, in a whole dozen of articles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36815</idno>
+            <idno type="STC">Wing D2509</idno>
+            <idno type="STC">ESTC R5207</idno>
+            <idno type="EEBO-CITATION">12270177</idno>
+            <idno type="OCLC">ocm 12270177</idno>
+            <idno type="VID">58214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 182:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Duke of Monmouth's case with all the very strange crimes, and great misdemeanors alledged against His Grace, in a whole dozen of articles.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:58214:1" rendition="simple:additions"/>
+            <head>THE Duke of Monmouth's CASE, WITH ALL The very ſtrange Crimes, and great Miſdemeanors Al<g ref="char:EOLhyphen"/>ledged againſt his Grace, in a whole Dozen of Ar<g ref="char:EOLhyphen"/>ticles.</head>
+            <p>THE <hi>Tories</hi> have always the ill luck to over-do and ill time their Buſineſs; their Malice and Rage is ſo great againſt the <hi>Proteſtant</hi> Religion, that it blinds them, or elſe they never would have made an Information of a Riot committed by a Perſon of that Rank, Bloud and Fortune, as the Duke of <hi>Monmouth</hi> is, in ſpite of all their abuſive Inſtruments, Machinations and Diſgrace, continues his Loy<g ref="char:EOLhyphen"/>alty to his Prince, together with his Love to his Religion, Country, and the <hi>Engliſh</hi> Nation: I ſay, had they not been blinded with Rage, Folly and Mad<g ref="char:EOLhyphen"/>neſs, they would not have accuſed ſuch a Perſon on ſo frivolous occaſions. O bleſſed Act of Parliament! that ſecures the <hi>Engliſh</hi> Liberties, and renders an <hi>Engliſhman</hi> Bailable, that he may not be ſent to the <hi>Tower,</hi> or <hi>Newgate,</hi> or any other Priſon upon every objected Crime. God defend our Prince, and our Laws, our Religion, and our Liberties, and continue both Nobles, Gentry and Commonalty in their Obedience and Loyalty: We need not fear whilſt we have ſo good and Gracious a King; and yet ſome things ſeem ſtrange to the <hi>Chriſtian</hi> World, that the meaneſt of the Raſcality dare abuſe the Royal Bloud, and that others are permitted to alledg on ſo groundleſs an occaſion, a Riot upon a Perſon that has born ſo great a Figure in the World, that has Commanded an Army, that has ſhewd invincible Courage and Bravery; that has the Bloud of <hi>Charles</hi> the Good and the Great running in his Veins—Some would fain render him <hi>Abſalom</hi> a Traitor, who is rather like the young <hi>Scipio,</hi> ready with his Sword to reſcue his Father from the danger of his Ene<g ref="char:EOLhyphen"/>mies, or like <hi>Aeneas,</hi> ready to carry him in his Arms from amidſt the flame of a burning City; and who is ready, together with his Prince, to defend his Country, and the Eſtabliſhed Religion of the Land. Hence riſes the Hatred, the Malice, the Rage of undermining Enemies, for the ſake of his Religion, and becauſe he is beloved by the People; and tho nothing in all his Actions can be pick'd out to render this Noble and Loyal Perſon Criminal, or that by the ſevereſt of our Laws tends any ways to it; yet rather than not ſhew their Malice to his Grace, whom ſome think they may tread upon with impu<g ref="char:EOLhyphen"/>nity, they have drawn up Articles purporting a Riot, which Allegations for the ſatisfaction of the World are here Printed.</p>
+            <div type="alleged_crimes">
+               <pb facs="tcp:58214:2" rendition="simple:additions"/>
+               <head>
+                  <hi>The ſtrange Crimes and Miſdemeanors alledged againſt His Grace</hi> James <hi>Duke of</hi> Monmouth.</head>
+               <p n="1">
+                  <hi>IMprimis,</hi> That the Lord <hi>Colcheſter</hi> had cauſed to be hired fifteen Poſt-Hor<g ref="char:EOLhyphen"/>ſes for the Duke of <hi>Monmouth</hi> and his Retinue, to ride to an Horſe-Match beyond <hi>Cheſter.</hi>
+               </p>
+               <p n="2">2<hi>dly.</hi> That the Lord <hi>Colcheſter</hi> was ſeen to whiſper with another Gentleman for almoſt half an hour.</p>
+               <p n="3">3<hi>dly.</hi> That his ſaid Grace was met by ſeveral Companies of People on the way, as he paſſed along, to the number of ſome Thouſands, and moſt highly broke the Peace, in crying, <hi>God bleſs the King, the</hi> Proteſtant <hi>Religion, and the</hi> Proteſtant <hi>Duke.</hi>
+               </p>
+               <p n="4">4<hi>thly.</hi> That he had willingly aſſented to be moſt ſplendidly Treated by all the truly Loyal Gentlemen of the Country, to the great grief and ſorrow of heart among all the <hi>Tories.</hi>
+               </p>
+               <p n="5">5<hi>thly.</hi> That on the ſame day his Grace won the Plate at <hi>Waleſie,</hi> ſeveral Per<g ref="char:EOLhyphen"/>ſons made Bonfires at <hi>Cheſter,</hi> and drank the Kings Health with great Joy and Acclamations, tho ſome of the diſ-affected <hi>Tories</hi> flang Chamber-Pots on their Heads, for which the others returned a Volley of Stones at their Windows, in requital of their rudeneſs.</p>
+               <p n="6">6<hi>thly.</hi> That divers Gentlemen met together to Dine without any Braces of Bucks ſent them by Mr. <hi>C—ch;</hi> and did highly derogate from the Princi<g ref="char:EOLhyphen"/>ples of the <hi>Tories,</hi> in drinking the Kings Health before the Duke of <hi>York</hi>'s.</p>
+               <p n="7">7<hi>thly.</hi> That ſome Perſons in his Graces Company was heard to affirm, that a <hi>Popiſh</hi> Succeſſor was no very good expedient for the eſtabliſhment of the <hi>Proteſtant</hi> Religion.</p>
+               <p n="8">8<hi>thly.</hi> That his Grace ſhould ride with ſeveral <hi>Tory</hi> Gentlemen for the Plate at <hi>Waleſie,</hi> and win it from them to the great grief of the Nation.</p>
+               <p n="9">9<hi>thly.</hi> That the ſaid <hi>James</hi> Duke of <hi>Monmouth</hi> ſhould be heard to declare, that he would willingly lay down his Life in Preſervation of His Majeſties Per<g ref="char:EOLhyphen"/>ſon and Government, as by Law eſtabliſhed.</p>
+               <p n="10">10<hi>ly.</hi> That his Grace believed there was a <hi>Popiſh</hi> Plot, and no <hi>Proteſtant</hi> or <hi>Presbyterian</hi> Plot whatſoever, as the <hi>Tories</hi> would fain have the People be<g ref="char:EOLhyphen"/>lieve.</p>
+               <p n="11">11<hi>thly.</hi> That in like manner he did not believe the Five Jeſuits and <hi>Coleman,</hi> Executed at <hi>Tyburn,</hi> died Martyrs.</p>
+               <p n="12">12<hi>thly.</hi> That he ſhould declare, he would never conſent or aſſent to the eſtabliſhing <hi>Popery</hi> here in <hi>England.</hi>
+               </p>
+               <p>To all which Articles and Allegations, his Grace was told he muſt give in Sureties for the Peace, or otherwiſe ſtand Committed to the <hi>Serjeant at Arms</hi> till he ſhould be releaſed by due Courſe of Law.</p>
+               <p>His Grace found Noblemen and Gentlemen enough to be his Bail very readi<g ref="char:EOLhyphen"/>ly, and accordingly his Grace gave ſufficient Bail, whoſe Names are here In<g ref="char:EOLhyphen"/>ſerted, <hi>Viz.</hi>
+               </p>
+               <list>
+                  <item>The Lord <hi>Ruſſel.</hi>
+                  </item>
+                  <item>Lord <hi>Clare.</hi>
+                  </item>
+                  <item>Lord <hi>Gray.</hi>
+                  </item>
+                  <item>Eſquires.
+<list>
+                        <item>Leviſton Gower.</item>
+                        <item>John Offly.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. C.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
